@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_behavior_schema",
-    "skos:prefLabel": "TokenLogger_behavior",
+    "skos:prefLabel": "TokenLogger behavior",
     "schema:description": "protocol for TokenLogger_behavior",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
