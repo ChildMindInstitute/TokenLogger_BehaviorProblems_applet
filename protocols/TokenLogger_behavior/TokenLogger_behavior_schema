@@ -5,7 +5,7 @@
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_behavior_schema",
     "skos:prefLabel": "TokenLogger Behavior",
-    "schema:description": "protocol for TokenLogger_behavior",
+    "schema:description": "Protocol for TokenLogger behavior",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_behavior_applet/master/protocols/TokenLogger_behavior/README.md",
